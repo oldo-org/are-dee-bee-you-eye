@@ -1,3 +1,3 @@
-# ardebeyoueye
+# ar-dee-bee-you-eye
 
-Ardebeyoueye is long for RDBUI which is short for Relational Database User Interface.
+Ar-dee-bee-you-eye is long for RDBUI which is short for Relational Database User Interface.
